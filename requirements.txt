@@ -1,0 +1,8 @@
+# HEDIS Care Gap Closure Agent — Requirements
+# No external dependencies required — pure Python stdlib only
+# Python 3.9+ required
+
+# Optional: uncomment for additional output formats
+# pandas>=2.0.0
+# openpyxl>=3.1.0    # for Excel export
+# reportlab>=4.0.0   # for PDF report generation
